@@ -1,24 +1,41 @@
-### Hi there 👋, I am Mohammad Sadik Ansari
-#### Cybersecurity Specialist | Ethical Hacker
-I’m Mohammad Sadik Ansari, a cybersecurity enthusiast specializing in ethical hacking and penetration testing. I create content on YouTube and teach classes on Telegram, sharing insights on securing digital assets. Passionate about continuous learning, I love collaborating on projects that enhance cybersecurity.
+# 👋 Hi, I'm Sadik
 
-Skills: Ethical Hacking | Website Penetration Testing | Digital Forensic | Content Creation | Python, etc.
+### 🛡️ Ethical Hacker | Content Creator
 
-- 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Red Teaming 
-- 📫 How to reach me: DM me on Telegram @phaseindia 
+I'm a cybersecurity educator focused on ethical hacking, penetration testing, and digital forensics. I simplify complex security topics through **YouTube videos**, **classes (VIP)**, and practical demonstrations.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/phaseindia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the.phasenetwork/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCGlD8zZ49Hw3kTbg0-OOimg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://phasenetwork.me/)  
+## 💼 What I Do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaseindia)](https://github.com/anuraghazra/github-readme-stats)
+- 🧠 Learning Red Teaming and adversary simulation
+- 🎥 Creating ethical hacking content on YouTube
+- 🤝 Open for collab on security tools and CTFs
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phaseindia&show_icons=true)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=phaseindia)  
+## 🛠️ Skills
 
-## Donate
+- Ethical Hacking & Web App Pentesting  
+- Digital Forensics & Incident Response  
+- Python Scripting & Automation  
+- OSINT & Reconnaissance  
+- Red Team Simulation & Report Writing
 
-If you like my work then you can help those people who need money to survive. We are helping those people. I really proud my subscribers and supporters they can do something for those peoples.
+---
+
+## 🌐 Find Me Online
+
+- 🌍 Website: [phasenetwork.xyz](https://phasenetwork.xyz)
+- 💬 Telegram: [@PHASE](https://t.me/phaseorgindia)
+- 📸 Instagram: [@the.phasenetwork](https://instagram.com/the.phasenetwork)
+- 📺 YouTube: [Phase Network](https://youtube.com/channel/UCGlD8zZ49Hw3kTbg0-OOimg)
+
+---
+
+## ☕ Support My Mission
+
+If you like my work, help us support people who need it.  
+Together we can build skills — and change lives.
 
 <a href="https://www.buymeacoffee.com/phaseorgindia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
