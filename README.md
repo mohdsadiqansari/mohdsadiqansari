@@ -62,6 +62,8 @@ I'm a passionate **cybersecurity educator** specializing in ethical hacking, pen
   ├─ Kali Linux, Metasploit, Burp Suite
   ├─ Network Configuration (VPN, Port Forwarding, DDNS)
   ├─ CCTV Systems & Remote Access
+  ├─ AI & Machine Learning in Cybersecurity
+  └─ Latest Hacking Tools & Exploit Frameworks
   └─ CTF Challenge Solving
 ```
 
@@ -73,11 +75,11 @@ I'm a passionate **cybersecurity educator** specializing in ethical hacking, pen
   
   | Platform | Link |
   |----------|------|
-  | 🌍 **Website** | [phasenetwork.xyz](https://phasenetwork.xyz/) |
-  | 💬 **Telegram** | [@PHASE](https://t.me/phaseorgindia) |
+  | 🌍 **Website** | [phasehub.app](https://phasehub.app/) | [Phase Academy](https://phaseacademy.tech) | [cybersadik.me](https://cybersadik.me) |
+  | 💬 **Telegram** | [https://t.me/phaseorgindia](https://t.me/phaseorgindia) |
   | 📸 **Instagram** | [@the.phasenetwork](https://instagram.com/the.phasenetwork) |
   | 📺 **YouTube** | [Phase Network](https://youtube.com/channel/UCGlD8zZ49Hw3kTbg0-OOimg) |
-  | 💼 **LinkedIn** | Coming Soon |
+  | 💼 **LinkedIn** | [https://www.linkedin.com/in/mohdsadiqansari/](https://www.linkedin.com/in/mohdsadiqansari/) |
   
 </div>
 
