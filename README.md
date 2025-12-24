@@ -83,13 +83,13 @@ I'm a passionate **cybersecurity educator** specializing in ethical hacking, pen
 
 ---
 
-## 📊 GitHub Statistics
+  ## 📊 GitHub Statistics
 
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdsadiqansari&show_icons=true&theme=radical&count_private=true)](https://github.com/mohdsadiqansari)
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdsadiqansari&show_icons=true&theme=github_dark)](https://github.com/mohdsadiqansari)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsadiqansari&layout=compact&theme=radical)](https://github.com/mohdsadiqansari)
+</div>
   
 </div>
 
